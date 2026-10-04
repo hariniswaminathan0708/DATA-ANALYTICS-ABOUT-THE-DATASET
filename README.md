@@ -1,7 +1,7 @@
 # DATA-ANALYTICS-ABOUT-THE-DATASET
 # AIM 
 To perform data analytics on a given dataset using Python and Pandas, understand the characteristics of the dataset, identify different types of data, examine missing values, and prepare the dataset for further analysis and machine learning.
-# THEORY
+# THEORY 
 Data Analytics is the process of examining, cleaning, transforming, and interpreting data to obtain useful information and identify meaningful patterns. It is an important step before applying statistical methods or Machine Learning algorithms.
 
 Python provides several libraries for data analysis, among which Pandas is widely used for handling structured datasets. Pandas provides a DataFrame structure that allows users to easily load, inspect, clean, and analyze data.
